@@ -18,7 +18,7 @@ A modern, animated pitch site built for the Pakistani real estate market — des
 
 **GitHub User Finder Pro**
 A GitHub user search engine built with React & Vite — custom debouncing, persistent favorites, SPA navigation.
-- 🔗 [Live Demo](#) · [Repository](https://github.com/shahzaibdesigns/github-user-finder-pro)
+- 🔗 [Live Demo](zaibrix-github-finder.vercel.app) · [Repository](https://github.com/shahzaibdesigns/github-user-finder-pro)
 
 **Construction Company Website**
 Responsive business website built with semantic HTML5 & CSS3.
