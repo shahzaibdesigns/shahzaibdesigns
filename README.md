@@ -22,7 +22,7 @@ A GitHub user search engine built with React & Vite — custom debouncing, persi
 
 **Construction Company Website**
 Responsive business website built with semantic HTML5 & CSS3.
-- 🔗 [Live Demo](subhan-ibuilders.netlify.app/) · [Repository](https://github.com/shahzaibdesigns/ibuilders-construction-website)
+- 🔗 [Live Demo](https://subhan-ibuilders.netlify.app/) · [Repository](https://github.com/shahzaibdesigns/ibuilders-construction-website)
 
 ---
 
