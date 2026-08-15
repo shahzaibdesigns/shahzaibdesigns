@@ -14,7 +14,7 @@ I design and build fast, responsive, visually polished sites — from client pit
 A modern, animated pitch site built for the Pakistani real estate market — designed to help property dealers convert visitors into leads.
 - Custom design system (navy / gold / sky blue), Playfair Display + DM Sans typography
 - GSAP scroll animations across all sections
-- 🔗 [View Live Demo](https://abu-huzaifa-real-estate.vercel.app/) ← *replace with your live abu-huzaifa-real-estate URL*
+- 🔗 [View Live Demo](https://abu-huzaifa-real-estate.vercel.app/)
 
 **GitHub User Finder Pro**
 A GitHub user search engine built with React & Vite — custom debouncing, persistent favorites, SPA navigation.
